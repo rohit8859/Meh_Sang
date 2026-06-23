@@ -1,0 +1,6 @@
+{
+  "name": "MehSang",
+  "description": "Premium Mehndi Artist Website showcasing luxury bridal, engagement, and festival henna designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
